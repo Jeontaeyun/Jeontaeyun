@@ -6,7 +6,13 @@
 ## Hi, I'm react and react native service developer
 
 🖥 [Client Side] React, React-native developer.  
+
 ⚙️ [Server Side] Node.js, Express, GraphQL with Apollo, Sequelize.  
+
 🔍 [Infra] firebase(Hosting, Scheduler, Real-Time database, FCM).  
+
 📗 [Language] Typescript, Javascript.  
+
+📃 [Inspiration] Clean Architecture, GoF Design Pattern.   
+
 🏷 [Etc] Git, Git-flow, Source Tree.  
