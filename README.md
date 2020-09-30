@@ -17,3 +17,6 @@
 📃 [Inspiration] Clean Architecture, GoF Design Pattern.   
 
 🏷 [Etc] Git, Git-flow, Source Tree.  
+
+![Jeontaeyun's github stats](https://github-readme-stats.vercel.app/api?username=Jeontaeyun&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeontaeyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
