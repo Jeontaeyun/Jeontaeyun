@@ -16,7 +16,9 @@
 
 📗 [Language] Typescript, Javascript.  
 
-📃 [Inspiration] Clean Architecture, GoF Design Pattern.   
+📃 [Inspiration] <Clean Architecture>, <GoF Design Pattern>, <The Software Craftsman: Professionalism, Pragmatism, Pride>
+
+ 
 
 🏷 [Etc] Git, Git-flow, Source Tree.  
 
