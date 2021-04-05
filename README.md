@@ -10,13 +10,13 @@
 
 🖥 [Client Side] React, React-native  
 
-⚙️ [Server Side] Node.js, Express, GraphQL with Apollo, Sequelize, Bull.js.
+⚙️ [Server Side] Node.js, Express, GraphQL with Apollo, Sequelize, TypeORM, Bull.js.
 
-🔍 [Infra] firebase(Hosting, Scheduler, Real-Time database, FCM), AWS EC2, AWS Elasticache
+🔍 [Infra] Firebase(Hosting, Scheduler, Real-Time database, FCM), AWS EC2, AWS Elasticache
 
-📗 [Language] Typescript, Javascript.  
+📗 [Language] Typescript, Javascript.
 
-📃 [Inspiration] <Clean Architecture>, <GoF Design Pattern>, <The Software Craftsman: Professionalism, Pragmatism, Pride>
+📃 [Inspiration] "Clean Architecture", "GoF Design Pattern", "The Software Craftsman: Professionalism, Pragmatism, Pride"
 
  
 
