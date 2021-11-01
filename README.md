@@ -10,7 +10,7 @@
 
 🖥 [Client Side] React, React-native  
 
-⚙️ [Server Side] Node.js, Express, GraphQL with Apollo, Sequelize, TypeORM, Bull.js.
+⚙️ [Server Side] Node.js, Express, GraphQL with Apollo, Sequelize, TypeORM, Nest.js, Bull.js.
 
 🔍 [Infra] Firebase(Hosting, Scheduler, Real-Time database, FCM), AWS EC2, AWS Elasticache
 
