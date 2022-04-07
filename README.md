@@ -8,13 +8,13 @@
 
 ## Hi, I'm react and react native service developer
 
-🖥 [Client Side] React, React-native  
+🖥 [Client Side] React, React-native, Flutter
 
 ⚙️ [Server Side] Node.js, Express, GraphQL with Apollo, Sequelize, TypeORM, Nest.js, Bull.js.
 
 🔍 [Infra] Firebase(Hosting, Scheduler, Real-Time database, FCM), AWS EC2, AWS Elasticache
 
-📗 [Language] Typescript, Javascript.
+📗 [Language] Typescript, Javascript, Dart
 
 📃 [Inspiration] "Clean Architecture", "GoF Design Pattern", "The Software Craftsman: Professionalism, Pragmatism, Pride"
 
